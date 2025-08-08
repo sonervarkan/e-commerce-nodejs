@@ -10,7 +10,7 @@ const nodemailer = require('nodemailer');
 const transporter = nodemailer.createTransport({
   service: 'gmail', // Outlook, Yahoo vb. de kullanabilirsiniz
   auth: {
-    user: 'eticaret1455@gmail.com', // Gönderici e-posta
+    user: 'xxxxxxxxxxxxxxxx', // Gönderici e-posta
     pass: xxxx xxxx xxxx xxxx' // E-posta şifresi veya uygulama şifresi
   }
 });
