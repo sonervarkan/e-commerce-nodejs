@@ -28,7 +28,7 @@ nodemailer
 ### Important:
 Only the file names remain in Turkish.
 All documentation/description is in English.
-```
+
 /routes
    ├── marka-ekle.js
    ├── marka-guncelle.js
