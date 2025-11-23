@@ -24,7 +24,7 @@ crypto
 nodemailer
 
 ## Project Structure
-
+```
 ### Important:
 Only the file names remain in Turkish.
 All documentation/description is in English.
